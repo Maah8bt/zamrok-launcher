@@ -24,6 +24,6 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 		}
 	],
 	"clientFolder": "Zamrok",
-	"newClientUrl" : "https://github.com/Archbyt/zamrok-launcher/releases/download/client/client-to-update.zip",
+	"newClientUrl" : "https://github.com/Maah8bt/zamrok-launcher/releases/download/client/client-to-update.zip",
 	"clientExecutable": "client.exe"
 }
